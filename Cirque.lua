@@ -124,13 +124,35 @@ MSQ:AddSkin("Cirque", {
 	},
 }, true)
 
--- Cirque, No Shadow
-MSQ:AddSkin("Cirque, No Shadow", {
+-- Cirque - No Shadow
+MSQ:AddSkin("Cirque - No Shadow", {
 	Template = "Cirque",
 	Normal = {
 		Width = 40,
 		Height = 40,
 		Color = {0.7, 0.7, 0.7, 1},
 		Texture = [[Interface\AddOns\Masque_Cirque\Textures\Normal_NS]],
+	},
+}, true)
+
+-- Cirque - Simple
+MSQ:AddSkin("Cirque - Simple", {
+	Template = "Cirque",
+	Normal = {
+		Width = 40,
+		Height = 40,
+		Color = {0.7, 0.7, 0.7, 1},
+		Texture = [[Interface\AddOns\Masque_Cirque\Textures\Simple]],
+	},
+}, true)
+
+-- Cirque - Simple, No Shadow
+MSQ:AddSkin("Cirque - Simple, No Shadow", {
+	Template = "Cirque",
+	Normal = {
+		Width = 40,
+		Height = 40,
+		Color = {0.7, 0.7, 0.7, 1},
+		Texture = [[Interface\AddOns\Masque_Cirque\Textures\Simple_NS]],
 	},
 }, true)
