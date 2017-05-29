@@ -3,7 +3,7 @@
 
 [I]Cirque[/I] is an add-on for for [URL="https://worldofwarcraft.com"]World of Warcraft[/URL] that adds a set of skins for [URL="https://www.wowace.com/projects/masque"]Masque[/URL].
 
-[I][B]Note:[/B] You [B]must[/B] have [URL="http://www.wowinterface.com/downloads/info12097"]Masque[/URL] installed to use this add-on.[/I]
+[I][B]Note:[/B] You must have [URL="http://www.wowinterface.com/downloads/info12097"]Masque[/URL] installed to use this add-on.[/I]
 
 [COLOR=Orange][SIZE="4"]Skins[/SIZE][/COLOR]
 
@@ -21,8 +21,8 @@ This skin set contains the following skins:
 1. Download the package from one of the following sites:
    [LIST]
    [*] [URL="https://mods.curse.com/addons/wow/masque-cirque"]Curse[/URL]
-   [*] [URL="http://www.wowinterface.com/downloads/"]WoW Interface[/URL]
    [*] [URL="https://www.wowace.com/projects/masque-cirque"]WoW Ace[/URL]
+   [*] [URL="http://www.wowinterface.com/downloads"]WoW Interface[/URL]
    [/LIST]
 2. Extract the package to your "World of Warcraft\Interface\AddOns" directory.
 
@@ -31,7 +31,7 @@ This skin set contains the following skins:
 [LIST]
 [*] [URL="https://www.wowace.com/projects/masque"]Masque Project Page[/URL]
 [*] [URL="https://www.facebook.com/masqueui"]Masque Facebook Page[/URL]
-[*] [URL="https://github.com/stormfx/masque/wiki/skins"]Get More Skins[/URL]
+[*] [URL="https://github.com/stormfx/masque/wiki/skin-list"]Get More Skins[/URL]
 [/LIST]
 
 [COLOR=Orange][SIZE="4"]Feedback[/SIZE][/COLOR]
