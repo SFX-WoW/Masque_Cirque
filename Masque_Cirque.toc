@@ -1,14 +1,14 @@
 ## Interface: 70200
 ## Title: Masque: |cffff8000Cirque|r
-## Version: 7.2.0
+## Version: 7.2.1
 ## Author: StormFX
+## Dependencies: Masque
 ## Notes: Cirque skins for Masque.
 ## Notes-deDE: Cirque-Skin für Masque.
 ## Notes-esES: Skin Cirque para Masque.
 ## Notes-esMX: Skin Cirque para Masque.
 ## Notes-itIT: Skin Cirque per Masque.
 ## Notes-zhTW: Masque的Caith皮膚。
-## Dependencies: Masque
 ## X-Category: Interface Enhancements
 ## X-Website: https://www.wowace.com/projects/masque-cirque
 ## X-WoWI-ID: 
