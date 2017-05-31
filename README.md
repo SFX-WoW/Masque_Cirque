@@ -4,7 +4,7 @@
 
 _Cirque_ is an add-on for [World of Warcraft](https://worldofwarcraft.com) that adds a set of skins for [Masque][].
 
-_**Note:** You must have [Masque][] version 7.2.1 or later installed to use this add-on._
+_**Note:** You must have [Masque][] version 7.2.1 or later installed to use this skin._
 
 ### Skins ###
 
