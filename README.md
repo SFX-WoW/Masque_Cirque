@@ -1,14 +1,12 @@
-![Masque: Cirque](_docs/images/Cirque-Logo.png)
-
 ### About ###
 
-_Cirque_ is an add-on for [World of Warcraft](https://worldofwarcraft.com) that adds a set of skins for [Masque][].
+_Cirque_ is an add-on for [World of Warcraft](https://worldofwarcraft.com "World of Warcraft Website") that adds a set of skins for [Masque][].
 
-_**Note:** You must have [Masque][] version 7.2.1 or later installed to use this skin._
+_**Note:** You must have [Masque][] version 7.2.1 or later installed to use this add-on._
 
 ### Skins ###
 
-This skin set contains the following skins:
+This set contains the following skins:
 
 - Cirque
 - Cirque - No Shadow
@@ -27,13 +25,13 @@ Install the package through your preferred add-on manager. You can also install 
 
 ### Links ###
 
+- [Download Masque][Masque]
 - [Get More Skins](https://github.com/stormfx/masque/wiki/skin-list "Masque Skin List")
-- [Masque Project Page][Masque]
-- [Masque Facebook Page](https://www.facebook.com/masqueui "Masque on Facebook")
 - [Masque Wiki](https://github.com/stormfx/masque/wiki "Masque Wiki")
+- [Masque Facebook Page](https://www.facebook.com/masqueui "Masque on Facebook")
 
 ### Feedback ###
 
 For bug reports and suggestions, please use the [ticket system](https://github.com/stormfx/masque_cirque/issues) on GitHub.
 
-[Masque]: https://www.wowace.com/projects/masque (Masque Project Page)
+[Masque]: https://mods.curse.com/addons/wow/masque ("Download Masque")
