@@ -75,6 +75,7 @@ MSQ:AddSkin("Cirque", {
 		Width = 40,
 		Height = 40,
 		BlendMode = "BLEND",
+		Color = {0, 1, 0, 0.7},
 		Texture = [[Interface\AddOns\Masque_Cirque\Textures\Indicator]],
 	},
 	Gloss = {
