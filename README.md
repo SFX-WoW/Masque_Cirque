@@ -1,3 +1,5 @@
+![Masque: Cirque](_docs\images\Cirque-Logo.png)
+
 ### About ###
 
 _Cirque_ is an add-on for [World of Warcraft](https://worldofwarcraft.com) that adds a set of skins for [Masque][].
