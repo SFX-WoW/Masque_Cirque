@@ -1,4 +1,4 @@
-![Masque: Cirque](_docs\images\Cirque-Logo.png)
+![Masque: Cirque](_docs/images/Cirque-Logo.png)
 
 ### About ###
 
