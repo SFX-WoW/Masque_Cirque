@@ -18,9 +18,9 @@ This set contains the following skins:
 Install the package through your preferred add-on manager. You can also install the add-on manually using the following steps:
 
 1. Download the package from one of the following sites:
-	- [Curse](https://mods.curse.com/addons/wow/masque-cirque "Download from Curse")
+	- [Curse](https://mods.curse.com/addons/wow/267778-masque-cirque "Download from Curse")
 	- [WoW Ace](https://www.wowace.com/projects/masque-cirque "Download from WoW Ace")
-	- [WoW Interface](http://www.wowinterface.com/downloads "Download from WoW Interface")
+	- [WoW Interface](http://www.wowinterface.com/downloads/info24410 "Download from WoW Interface")
 2. Extract the package to your **World of Warcraft\Interface\AddOns** directory.
 
 ### Links ###
