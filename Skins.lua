@@ -134,8 +134,8 @@ MSQ:AddSkin("Cirque", {
 		Height = 10,
 	},
 	Cooldown = {
-		Width = 40,
-		Height = 40,
+		Width = 36,
+		Height = 36,
 		Color = {0, 0, 0, 0.8},
         Texture = [[Interface\AddOns\Masque_Cirque\Textures\Cooldown]],
 	},
@@ -144,8 +144,8 @@ MSQ:AddSkin("Cirque", {
 		Height = 32,
 	},
 	Shine = {
-		Width = 34,
-		Height = 34,
+		Width = 32,
+		Height = 32,
 		OffsetX = 1,
 		OffsetY = -1,
 	},
