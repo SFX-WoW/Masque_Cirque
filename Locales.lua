@@ -8,13 +8,13 @@
 
 ]]
 
--- GLOBALS: GetLocale
+-- GLOBALS: GetLocale, setmetatable
 
 local _, Core = ...
 
 ----------------------------------------
 -- Locales
-----------------------------------------
+---
 
 local L = {}
 
@@ -29,9 +29,7 @@ local Locale = GetLocale()
 
 if Locale == "enGB" or Locale == "enUS" then
 	--L["A circular skin with an outer ring as an accent."] = "A circular skin with an outer ring as an accent."
-	--L["An alternate version of Cirque without a shadow."] = "An alternate version of Cirque without a shadow."
 	--L["An alternate version of Cirque without an outer ring."] = "An alternate version of Cirque without an outer ring."
-	--L["An alternate version of Cirque without an outer ring or shadow."] = "An alternate version of Cirque without an outer ring or shadow."
 	return
 --elseif Locale == "deDE" then
 --elseif Locale == "esES" or Locale == "esMX" then
