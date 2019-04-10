@@ -57,7 +57,7 @@ MSQ:AddSkin("Cirque", {
 	},
 	Icon = {
 		Mask = [[Interface\AddOns\Masque_Cirque\Textures\Overlay]],
-		MaskWidth = 40,        
+		MaskWidth = 40,
 		MaskHeight = 40,
 		Width = 38,
 		Height = 38,
