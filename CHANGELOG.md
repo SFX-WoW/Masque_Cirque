@@ -1,7 +1,8 @@
-## 8.1.1-Alpha
+## 8.1.2-Alpha
 
 - Updated the skin info for _Masque_'s UI changes.
 - Added `Shadow` textures.
+- Added a `NewAction` texture.
 - Added support for new regions added in _Masque_.
 - Removed the "No Shadow" skins since they're no longer necessary.
 - Updated the `Masque_Version`.
