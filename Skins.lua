@@ -7,6 +7,7 @@
 	* Authors.: StormFX
 
 	Cirque Skins
+
 ]]
 
 -- GLOBALS: GetAddOnMetadata, LibStub
@@ -190,12 +191,14 @@ MSQ:AddSkin("Cirque", {
 		Width = 40,
 		Height = 40,
 		Point = "CENTER",
+		UseColor = true,
 	},
 	ContextOverlay = {
 		Color = {0, 0, 0, 0.7},
 		Width = 40,
 		Height = 40,
 		Point = "CENTER",
+		UseColor = true,
 	},
 	NewItem = {
 		DrawLayer = "BORDER",
