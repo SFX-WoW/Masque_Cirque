@@ -1,4 +1,6 @@
-## 8.1.2-Alpha
+## 8.1.5-Beta
+
+_**Warning:** This version requires the latest pre-release of [Masque](https://github.com/StormFX/Masque/releases)._
 
 - Updated the skin info for _Masque_'s UI changes.
 - Added `Shadow` textures.
