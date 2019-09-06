@@ -1,7 +1,7 @@
 --[[
 
 	This file is part of 'Masque: Cirque', an add-on for World of Warcraft. For license information,
-	please see the included License.txt file.
+	please see the included License.txt file or visit https://github.com/StormFX/Masque_Cirque.
 
 	* File....: Locales.lua
 	* Authors.: StormFX
@@ -39,5 +39,7 @@ if Locale == "enGB" or Locale == "enUS" then
 --elseif Locale == "ptBR" then
 --elseif Locale == "ruRU" then
 --elseif Locale == "zhCN" then
---elseif Locale == "zhTW" then
+elseif Locale == "zhTW" then
+	L["A circular skin with an outer ring as an accent."] = "一個圓形皮膚，外圈為特色所在。"
+	L["An alternate version of Cirque without an outer ring."] = "沒有外圈的Cirque的替代版本。"
 end
