@@ -1,14 +1,19 @@
-## 8.1.5-Beta
+## 8.2.5-Beta
 
-_**Warning:** This version requires the latest pre-release of [Masque](https://github.com/StormFX/Masque/releases)._
+_**Warning:** This version requires the latest version of [Masque](https://github.com/StormFX/Masque/releases)._
 
 - Updated the skin info for _Masque_'s UI changes.
+- Added _Classic_ support.
 - Added `Shadow` textures.
 - Added a `NewAction` texture.
 - Added support for new regions added in _Masque_.
+- The following regions now use a color instead of a texture:
+  - `Backdrop`
+  - `Flash`
+  - `Pushed`
 - Removed the "No Shadow" skins since they're no longer necessary.
 - Updated the `Masque_Version`.
-- Updated the ToC to 80100.
+- Updated the ToC to 80200.
 
 ### Feedback
 
