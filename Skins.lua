@@ -39,7 +39,7 @@ local Websites = {
 
 MSQ:AddSkin("Cirque", {
 	Shape = "Circle",
-	Masque_Version = 80100,
+	Masque_Version = 80200,
 	Group = "Cirque",
 	Order = 1,
 
