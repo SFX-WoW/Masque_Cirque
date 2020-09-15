@@ -1,7 +1,7 @@
 --[[
 
-	This file is part of 'Masque: Cirque', an add-on for World of Warcraft. For license information,
-	please see the included License.txt file or visit https://github.com/StormFX/Masque_Cirque.
+	This file is part of 'Masque: Cirque', an add-on for World of Warcraft. For bug reports,
+	suggestions and license information, please visit https://github.com/SFX-WoW/Masque_Cirque.
 
 	* File...: Skins.lua
 	* Author.: StormFX
@@ -27,7 +27,7 @@ local L = Core.Locale
 -- Skin Info
 local Version = GetAddOnMetadata(AddOn, "Version")
 local Websites = {
-	"https://github.com/StormFX/Masque_Cirque",
+	"https://github.com/SFX-WoW/Masque_Cirque",
 	"https://www.wowace.com/projects/masque-cirque",
 	"https://www.curseforge.com/wow/addons/masque-cirque",
 	"https://www.wowinterface.com/downloads/info24410",
