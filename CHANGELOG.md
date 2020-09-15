@@ -1,28 +1,4 @@
-## 8.2.5
+## 8.3.0
 
-_**Warning:** This version requires the latest version of [Masque](https://github.com/StormFX/Masque/releases)._
-
-- Updated the skin info for _Masque_'s UI changes.
-- Added _Classic_ support.
-- Added `Shadow` textures.
-- Added a `NewAction` texture.
-- Added support for new regions added in _Masque_.
-- The following regions now use a color instead of a texture:
-  - `Backdrop`
-  - `Flash`
-  - `Pushed`
-- Removed the "No Shadow" skins since they're no longer necessary.
-- Updated the `Masque_Version`.
-- Updated the ToC to 80200.
-
-### Feedback
-
-For bug reports and suggestions, please use the [issue tracker] on GitHub.
-
-### Localization
-
-To help translate this add-on, please use the [localization system] on WoW Ace or [contribute directly] on GitHub.
-
-[issue tracker]: https://github.com/StormFX/Masque_Cirque/issues (Report an Issue)
-[localization system]: https://www.wowace.com/projects/masque-cirque/localization (Translate on WoW Ace)
-[contribute directly]: https://github.com/StormFX/Masque_Cirque (Translate on GitHub)
+- Updated the _Classic_ ToC to `11305`.
+- Updated the _Retail_ ToC to `80300`.
