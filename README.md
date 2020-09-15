@@ -1,14 +1,9 @@
-[![Build Status][Badge-Travis]][Travis]
-[![Latest][Badge-Latest]][Latest]
-[![Discord][Badge-Discord]][Discord]
-[![Patreon][Badge-Patreon]][Patreon]
-[![PayPal][Badge-PayPal]][PayPal]
+[![Build][SVG-Build]][Build]
+[![Discord][SVG-Discord]][Discord]
 
 ## About
 
-_Cirque_ is an add-on for [World of Warcraft] that adds a set of custom skins for [Masque].
-
-_**Note:** You must have [Masque] installed to use these skins._
+**Masque: Cirque** is an add-on for [World of Warcraft] that adds a set of skins for [Masque].
 
 ## Skins
 
@@ -17,62 +12,57 @@ This set contains the following skins:
 - **Cirque** - A circular skin with an outer ring as an accent.
 - **Cirque - Simple** - An alternate version of _Cirque_ without an outer ring.
 
+## Requirements
+
+This add-on requires [Masque].
+
 ## Installation
 
-Install the package through your preferred add-on manager. You can also install the add-on manually using the following steps:
-
-1. Download the package from one of the following sites:
-    - [GitHub]
-    - [WoW Ace]
-    - [CurseForge]
-    - [WoW Interface]
-2. Extract the package to the appropriate directory:
-    - Retail: `World of Warcraft\_retail_\Interface\AddOns`
-    - Classic: `World of Warcraft\_classic_\Interface\AddOns`
-
-## Links
-
-- [Masque]
-- [Masque Wiki]
-- [Skin List]
-- [Masque on Facebook]
+Install the package through your preferred add-on manager. Alternatively, you can find manual instructions on the [project wiki][Wiki].
 
 ## Feedback
 
-For bug reports and suggestions, please use the [issue tracker] on GitHub.
+For bug reports and suggestions, use the [issue tracker]. Direct any questions or comments to [Discord].
 
 ## Localization
 
-To help translate this add-on, please use the [localization system] on WoW Ace or [contribute directly] on GitHub.
+To help translate this add-on, use the [localization system] on WoW Ace. Alternatively, you can use the [issue tracker].
+
+## Support
+
+If you'd like to support the development of this and other projects, you can use one of the options below.
+
+- [Donate via PayPal][Donate]
+- [Sponsor on GitHub][Sponsor]
+
+## Links
+
+- [Masque][Masque]
+- [CurseForge][CurseForge]
+- [WoW Ace][WoW Ace]
+- [WoW Interface]
 
 [Links]: #
 
-[Masque]: https://github.com/StormFX/Masque (Download Masque)
+[Build]: https://github.com/SFX-WoW/Masque_Cirque/actions?query=workflow%3ARelease (Build Status)
+[Discord]: https://discord.gg/DDVqkd6 (Join the Discord)
+
 [World of Warcraft]: https://worldofwarcraft.com (World of Warcraft)
+[Masque]: https://github.com/SFX-WoW/Masque (Download Masque)
 
-[GitHub]: https://github.com/StormFX/Masque_Cirque (Download from GitHub)
-[WoW Ace]: https://www.wowace.com/projects/masque-cirque (Download from WoW Ace)
-[CurseForge]: https://www.curseforge.com/wow/addons/masque-cirque (Download from CurseForge)
-[WoW Interface]: https://www.wowinterface.com/downloads/info24410 (Download from WoW Interface)
+[Issue Tracker]: https://github.com/SFX-WoW/Masque_Cirque/issues (Report an Issue)
+[Localization System]: https://www.wowace.com/projects/masque-cirque/localization (Translate on WoW Ace)
+[Wiki]: https://github.com/SFX-WoW/Masque_Cirque/wiki (View the Wiki)
 
-[Masque Wiki]: https://github.com/StormFX/Masque/wiki (Masque Wiki)
-[Skin List]: https://github.com/StormFX/Masque/wiki/Skin-List (Masque Skin List)
-[Masque on Facebook]: https://www.facebook.com/masqueui (Masque on Facebook)
+[Donate]: https://www.paypal.me/stormfxi (Donate via PayPal)
+[Sponsor]: https://github.com/sponsors/StormFX (Sponsor on GitHub)
 
-[issue tracker]: https://github.com/StormFX/Masque_Cirque/issues (Report an Issue)
-[localization system]: https://www.wowace.com/projects/masque-cirque/localization (Translate on WoW Ace)
-[contribute directly]: https://github.com/StormFX/Masque_Cirque (Translate on GitHub)
-
-[Travis]: https://travis-ci.org/StormFX/Masque_Cirque (Latest Build)
-[Latest]: https://github.com/StormFX/Masque_Cirque/releases (Latest Release)
-[Discord]: https://discord.gg/DDVqkd6 (Discord)
-[Patreon]: https://www.patreon.com/stormfx (Donate via Patreon)
-[PayPal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EELAK9TC4W4KQ (Donate via PayPal)
+[CurseForge]: https://www.curseforge.com/wow/addons/masque-cirque (View on CurseForge)
+[GitHub]: https://github.com/SFX-WoW/Masque_Cirque (View on GitHub)
+[WoW Ace]: https://www.wowace.com/projects/masque-cirque (View on WoW Ace)
+[WoW Interface]: https://www.wowinterface.com/downloads/info24410 (View on WoW Interface)
 
 [Images]: #
 
-[Badge-Travis]: https://img.shields.io/travis/StormFX/Masque_Cirque/master?label=Build&style=flat-square
-[Badge-Latest]: https://img.shields.io/github/v/release/StormFX/Masque_Cirque?include_prereleases&label=Latest&style=flat-square
-[Badge-Discord]: https://img.shields.io/badge/Discord-StormFX-7289da?style=flat-square
-[Badge-Patreon]: https://img.shields.io/badge/Patreon-Donate-f96854?style=flat-square
-[Badge-PayPal]: https://img.shields.io/badge/PayPal-Donate-009CDE?style=flat-square
+[SVG-Build]: https://img.shields.io/github/workflow/status/SFX-WoW/Masque_Cirque/Release?label=Build&logo=github&logoColor=fff&style=flat-square
+[SVG-Discord]: https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=fff&style=flat-square
