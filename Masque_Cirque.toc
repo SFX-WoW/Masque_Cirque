@@ -8,8 +8,8 @@
 
 ## Notes: Cirque skins for Masque.
 ## Notes-deDE: Cirque-Skin für Masque.
-## Notes-esES: Skin Cirque para Masque.
 ## Notes-esMX: Skin Cirque para Masque.
+## Notes-esES: Skin Cirque para Masque.
 ## Notes-frFR: Skins de Cirque pour Masque.
 ## Notes-itIT: Skin Cirque per Masque.
 ## Notes-ruRU: Скин Cirque для Masque.
