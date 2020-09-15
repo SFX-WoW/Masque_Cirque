@@ -10,6 +10,7 @@
 ## Notes-deDE: Cirque-Skin für Masque.
 ## Notes-esES: Skin Cirque para Masque.
 ## Notes-esMX: Skin Cirque para Masque.
+## Notes-frFR: Skins de Cirque pour Masque.
 ## Notes-itIT: Skin Cirque per Masque.
 ## Notes-ruRU: Скин Cirque для Masque.
 ## Notes-zhTW: Masque的Cirque皮膚。
@@ -18,7 +19,7 @@
 ## Author: StormFX
 ## Dependencies: Masque
 
-## X-Website: https://github.com/StormFX/Masque_Cirque
+## X-Website: https://github.com/SFX-WoW/Masque_Cirque
 ## X-Category: Interface Enhancements
 ## X-Curse-Project-ID: 267778
 ## X-WoWI-ID: 24410
