@@ -1,7 +1,6 @@
 package-as: Masque_Cirque
 
 required-dependencies:
-  - libstub
   - masque
 
 ignore:
