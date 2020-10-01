@@ -39,7 +39,7 @@ local Websites = {
 
 MSQ:AddSkin("Cirque", {
 	Shape = "Circle",
-	Masque_Version = 80200,
+	Masque_Version = 90000,
 	Group = "Cirque",
 	Order = 1,
 
@@ -124,7 +124,7 @@ MSQ:AddSkin("Cirque", {
 		-- UseStates = nil,
 		-- SetAllPoints = nil,
 	},
-	--Disabled = {Hide = true,},
+	-- Disabled = Default.Disabled,
 	Pushed = {
 		-- Texture = [[Interface\Buttons\UI-Quickslot-Depress]],
 		-- TexCoords = {0, 1, 0, 1},
