@@ -38,8 +38,8 @@ local Websites = {
 ---
 
 MSQ:AddSkin("Cirque", {
+	API_VERSION = 90002,
 	Shape = "Circle",
-	Masque_Version = 90000,
 	Group = "Cirque",
 	Order = 1,
 
