@@ -488,7 +488,7 @@ MSQ:AddSkin("Cirque", {
 		OffsetY = 0,
 		-- SetAllPoints = true,
 	},
-}, true)
+})
 
 ----------------------------------------
 -- Cirque - Simple
@@ -537,4 +537,4 @@ MSQ:AddSkin("Cirque - Simple", {
 		-- UseStates = nil,
 		-- SetAllPoints = nil,
 	},
-}, true)
+})
