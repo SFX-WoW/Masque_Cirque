@@ -22,6 +22,7 @@
 ## X-Website: https://github.com/SFX-WoW/Masque_Cirque
 ## X-Category: Interface Enhancements
 ## X-Curse-Project-ID: 267778
+## X-Wago-ID: lQNljxKe
 ## X-WoWI-ID: 24410
 
 # Locales
