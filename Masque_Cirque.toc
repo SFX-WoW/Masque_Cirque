@@ -1,9 +1,11 @@
 ## Interface: 100007
 
 ## Author: StormFX
-## Dependencies: Masque
 ## Title: Masque: Cirque
 ## Version: @project-version@
+
+## Dependencies: Masque
+## IconTexture: Interface\AddOns\Masque_Cirque\Textures\Icon
 
 ## Notes: Cirque skins for Masque.
 ## Notes-deDE: Cirque-Skin für Masque.
