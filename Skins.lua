@@ -25,7 +25,7 @@ local L = Core.Locale
 -- Locals
 ---
 
-local API_VERSION = 100105
+local API_VERSION = 100207
 
 -- Skin Info
 local Version = "@project-version@"
@@ -483,6 +483,10 @@ MSQ:AddSkin("Cirque", {
 		OffsetX = 0,
 		OffsetY = 0,
 		-- SetAllPoints = true,
+	},
+	SpellAlert = {
+		Height = 27,
+		Width = 27,
 	},
 })
 
