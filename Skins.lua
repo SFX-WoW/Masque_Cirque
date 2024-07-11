@@ -451,6 +451,40 @@ MSQ:AddSkin("Cirque", {
 		-- SetAllPoints = nil,
 		-- UseColor = nil,
 	},
+	-- [ AutoCastOverlay (Retail) ]
+	-- AutoCast_Frame = Default.AutoCast_Frame,
+	-- AutoCast_Shine = Default.AutoCast_Shine,
+	AutoCast_Mask = {
+		-- Atlas = "UI-HUD-ActionBar-PetAutoCast-Mask",
+		-- UseAtlasSize = false,
+		Texture = [[Interface\AddOns\Masque\Textures\Circle\AutoCast-Mask]],
+		-- TexCoords = {0, 1, 0, 1},
+		Width = 32, -- 23
+		Height = 32, -- 23
+		Point = "CENTER",
+		RelPoint = "CENTER",
+		OffsetX = -0.5,
+		OffsetY = 0.5,
+		-- SetAllPoints = nil,
+	},
+	AutoCast_Corners = {
+		-- Atlas = "UI-HUD-ActionBar-PetAutoCast-Corners",
+		-- UseAtlasSize = false,
+		Texture = [[Interface\AddOns\Masque_Cirque\Textures\Base\Indicator]],
+		-- TexCoords = {0, 1, 0, 1},
+		Color = {1, 0.9, 0, 1},
+		BlendMode = "BLEND",
+		DrawLayer = "OVERLAY",
+		DrawLevel = 1,
+		Width = 40, -- 31
+		Height = 40, -- 31
+		Point = "CENTER",
+		RelPoint = "CENTER",
+		OffsetX = -0.5,
+		OffsetY = 0.5,
+		-- SetAllPoints = true,
+	},
+	-- [ AutoCastShine (Classic) ]
 	AutoCastShine = {
 		Width = 32,
 		Height = 32,
@@ -577,6 +611,10 @@ MSQ:AddSkin("Cirque - Simple", {
 	-- ContextOverlay = Template.ContextOverlay,
 	-- JunkIcon = Template.JunkIcon,
 	-- Highlight = Template.Highlight,
+	-- AutoCast_Frame = Template.AutoCast_Frame,
+	-- AutoCast_Shine = Template.AutoCast_Shine,
+	-- AutoCast_Mask = Template.AutoCast_Mask,
+	-- AutoCast_Corners = Template.AutoCast_Corners,
 	-- AutoCastShine = Template.AutoCastShine,
 	-- Cooldown = Template.Cooldown,
 	-- ChargeCooldown = Template.ChargeCooldown,
