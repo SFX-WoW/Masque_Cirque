@@ -459,12 +459,12 @@ MSQ:AddSkin("Cirque", {
 		-- UseAtlasSize = false,
 		Texture = [[Interface\AddOns\Masque\Textures\Circle\AutoCast-Mask]],
 		-- TexCoords = {0, 1, 0, 1},
-		Width = 32, -- 23
-		Height = 32, -- 23
+		Width = 30,
+		Height = 30,
 		Point = "CENTER",
 		RelPoint = "CENTER",
-		OffsetX = -0.5,
-		OffsetY = 0.5,
+		OffsetX = 0,
+		OffsetY = 0,
 		-- SetAllPoints = nil,
 	},
 	AutoCast_Corners = {
@@ -476,12 +476,12 @@ MSQ:AddSkin("Cirque", {
 		BlendMode = "BLEND",
 		DrawLayer = "OVERLAY",
 		DrawLevel = 1,
-		Width = 40, -- 31
-		Height = 40, -- 31
+		Width = 40,
+		Height = 40,
 		Point = "CENTER",
 		RelPoint = "CENTER",
-		OffsetX = -0.5,
-		OffsetY = 0.5,
+		OffsetX = 0,
+		OffsetY = 0,
 		-- SetAllPoints = true,
 	},
 	-- [ AutoCastShine (Classic) ]
@@ -500,8 +500,8 @@ MSQ:AddSkin("Cirque", {
 		EdgeTexture = [[Interface\AddOns\Masque\Textures\Square\Edge]],
 		PulseTexture = [[Interface\Cooldown\star4]],
 		Color = {0, 0, 0, 0.7},
-		Width = 34,
-		Height = 34,
+		Width = 32,
+		Height = 32,
 		Point = "CENTER",
 		RelPoint = "CENTER",
 		OffsetX = 0,
