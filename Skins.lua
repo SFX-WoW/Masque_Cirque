@@ -521,8 +521,16 @@ MSQ:AddSkin("Cirque", {
 	},
 	-- [ SpellAlert ]
 	SpellAlert = {
-		Height = 27,
-		Width = 27,
+		Height = 36,
+		Width = 36,
+		Classic = {
+			Height = 27,
+			Width = 27,
+		},
+		Thin = {
+			Height = 27,
+			Width = 27,
+		},
 	},
 })
 
