@@ -527,6 +527,10 @@ MSQ:AddSkin("Cirque", {
 			Height = 27,
 			Width = 27,
 		},
+		Modern = {
+			Height = 27,
+			Width = 27,
+		},
 		Thin = {
 			Height = 27,
 			Width = 27,
