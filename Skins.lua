@@ -87,8 +87,6 @@ MSQ:AddSkin("Cirque", {
 		-- TexCoords = {0, 1, 0, 1},
 		-- Color = {1, 1, 1, 1},
 		BlendMode = "BLEND",
-		DrawLayer = "BACKGROUND",
-		DrawLevel = 0,
 		Width = 38,
 		Height = 38,
 		Point = "CENTER",
