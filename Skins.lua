@@ -25,7 +25,7 @@ local L = Core.Locale
 -- Locals
 ---
 
-local API_VERSION = 110107
+local API_VERSION = 110207
 
 -- Skin Info
 local Version = "@project-version@"
@@ -517,22 +517,30 @@ MSQ:AddSkin("Cirque", {
 		OffsetY = 0,
 		-- SetAllPoints = true,
 	},
-	-- [ SpellAlert ]
+	-- [ SpellAlerts ]
 	SpellAlert = {
 		Height = 36,
 		Width = 36,
+		AltGlow = {
+			Height = 45,
+			Width = 45,
+		},
 		Classic = {
-			Height = 27,
-			Width = 27,
+			Height = 32,
+			Width = 32,
 		},
 		Modern = {
-			Height = 27,
-			Width = 27,
+			Height = 32,
+			Width = 32,
 		},
-		Thin = {
-			Height = 27,
-			Width = 27,
+		["Modern-Lite"] = {
+			Height = 33,
+			Width = 33,
 		},
+	},
+	AssistedCombatHighlight = {
+		Width = 46,
+		Height = 46,
 	},
 })
 
@@ -628,4 +636,6 @@ MSQ:AddSkin("Cirque - Simple", {
 	-- AutoCastShine = Template.AutoCastShine,
 	-- Cooldown = Template.Cooldown,
 	-- ChargeCooldown = Template.ChargeCooldown,
+	-- SpellAlert = Template.SpellAlert,
+	-- AssistedCombatHighlight = Template.AssistedCombatHighlight,
 })
