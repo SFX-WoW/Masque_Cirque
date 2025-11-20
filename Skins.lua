@@ -10,8 +10,9 @@
 
 ]]
 
-local MSQ = LibStub and LibStub("Masque", true)
-if not MSQ then return end
+local Masque = LibStub("Masque", true)
+
+if not Masque then return end
 
 local _, Core = ...
 
@@ -40,14 +41,14 @@ local Websites = {
 -- Cirque
 ---
 
-MSQ:AddSkin("Cirque", {
+Masque:AddSkin("Cirque", {
 	API_VERSION = API_VERSION,
 	Shape = "Circle",
 
 	-- Info
+	Author = "StormFX",
 	Description = L["A circular skin with an outer ring as an accent."],
 	Version = Version,
-	Author = "StormFX",
 	Websites = Websites,
 
 	-- UI
@@ -534,13 +535,13 @@ MSQ:AddSkin("Cirque", {
 			Width = 32,
 		},
 		["Modern-Lite"] = {
-			Height = 33,
-			Width = 33,
+			Height = 32,
+			Width = 32,
 		},
 	},
 	AssistedCombatHighlight = {
-		Width = 46,
-		Height = 46,
+		Width = 45,
+		Height = 45,
 	},
 })
 
@@ -548,7 +549,7 @@ MSQ:AddSkin("Cirque", {
 -- Cirque - Simple
 ---
 
-MSQ:AddSkin("Cirque - Simple", {
+Masque:AddSkin("Cirque - Simple", {
 	-- API_VERSION = Template.API_VERSION,
 	-- Shape = Template.Shape,
 	Template = "Cirque",
