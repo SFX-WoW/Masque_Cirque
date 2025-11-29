@@ -11,15 +11,10 @@
 local _, Core = ...
 
 ----------------------------------------
--- WoW API
+-- Locals
 ---
 
 local Locale = GetLocale()
-
-----------------------------------------
--- Local
----
-
 local L = {}
 
 ----------------------------------------
@@ -38,9 +33,8 @@ Core.Locale = setmetatable(L, {
 ---
 
 if Locale == "enGB" or Locale == "enUS" then
-	-- enUS/enGB for Reference
-	--L["A circular skin with an outer ring as an accent."] = "A circular skin with an outer ring as an accent."
-	--L["An alternate version of Cirque without an outer ring."] = "An alternate version of Cirque without an outer ring."
+	L["A circular skin with an outer ring as an accent."] = "A circular skin with an outer ring as an accent."
+	L["An alternate version of Cirque without an outer ring."] = "An alternate version of Cirque without an outer ring."
 	return
 --elseif Locale == "deDE" then
 --elseif Locale == "esES" or Locale == "esMX" then
@@ -48,7 +42,9 @@ if Locale == "enGB" or Locale == "enUS" then
 --elseif Locale == "itIT" then
 --elseif Locale == "koKR" then
 --elseif Locale == "ptBR" then
---elseif Locale == "ruRU" then
+elseif Locale == "ruRU" then
+	L["A circular skin with an outer ring as an accent."] = "Круглая оболочка с внешним кольцом в качестве акцента."
+	L["An alternate version of Cirque without an outer ring."] = "Альтернативная версия Cirque без внешнего кольца."
 --elseif Locale == "zhCN" then
 elseif Locale == "zhTW" then
 	L["A circular skin with an outer ring as an accent."] = "一個圓形皮膚，外圈為特色所在。"
