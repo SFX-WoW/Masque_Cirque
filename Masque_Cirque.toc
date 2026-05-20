@@ -14,8 +14,9 @@
 ## Notes-esES: Skins Cirque para Masque.
 ## Notes-frFR: Skins de Cirque pour Masque.
 ## Notes-itIT: Skins Cirque per Masque.
-## Notes-ruRU: Скин Cirque для Masque.
-## Notes-zhTW: Masque的Cirque皮膚。
+## Notes-ptBR: Aparências Cirque para o Masque.
+## Notes-ruRU: Cirque скины для Masque.
+## Notes-zhTW: Masque的Cirque外觀。
 
 ## X-Category: Interface Enhancements
 ## X-Discord: https://discord.gg/7MTWRgDzz8
