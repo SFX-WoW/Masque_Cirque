@@ -41,7 +41,9 @@ if Locale == "enGB" or Locale == "enUS" then
 --elseif Locale == "frFR" then
 --elseif Locale == "itIT" then
 --elseif Locale == "koKR" then
---elseif Locale == "ptBR" then
+elseif Locale == "ptBR" then
+	L["A circular skin with an outer ring as an accent."] = "Uma aparência circular com um anel externo como detalhe."
+	L["An alternate version of Cirque without an outer ring."] = "Uma versão alternativa da Cirque sem um anel externo."
 elseif Locale == "ruRU" then
 	L["A circular skin with an outer ring as an accent."] = "Круглая оболочка с внешним кольцом в качестве акцента."
 	L["An alternate version of Cirque without an outer ring."] = "Альтернативная версия Cirque без внешнего кольца."
