@@ -32,23 +32,22 @@ Core.Locale = setmetatable(L, {
 -- Localization
 ---
 
-if Locale == "enGB" or Locale == "enUS" then
-	L["A circular skin with an outer ring as an accent."] = "A circular skin with an outer ring as an accent."
-	L["An alternate version of Cirque without an outer ring."] = "An alternate version of Cirque without an outer ring."
-	return
---elseif Locale == "deDE" then
---elseif Locale == "esES" or Locale == "esMX" then
---elseif Locale == "frFR" then
---elseif Locale == "itIT" then
---elseif Locale == "koKR" then
+if Locale == "deDE" then
+--@localization(locale="deDE", format="lua_additive_table", handle-unlocalized="ignore")@
+elseif Locale == "esES" or Locale == "esMX" then
+--@localization(locale="esES", format="lua_additive_table", handle-unlocalized="ignore")@
+elseif Locale == "frFR" then
+--@localization(locale="frFR", format="lua_additive_table", handle-unlocalized="ignore")@
+elseif Locale == "itIT" then
+--@localization(locale="itIT", format="lua_additive_table", handle-unlocalized="ignore")@
+elseif Locale == "koKR" then
+--@localization(locale="koKR", format="lua_additive_table", handle-unlocalized="ignore")@
 elseif Locale == "ptBR" then
-	L["A circular skin with an outer ring as an accent."] = "Uma aparência circular com um anel externo como detalhe."
-	L["An alternate version of Cirque without an outer ring."] = "Uma versão alternativa da Cirque sem um anel externo."
+--@localization(locale="ptBR", format="lua_additive_table", handle-unlocalized="ignore")@
 elseif Locale == "ruRU" then
-	L["A circular skin with an outer ring as an accent."] = "Круглая оболочка с внешним кольцом в качестве акцента."
-	L["An alternate version of Cirque without an outer ring."] = "Альтернативная версия Cirque без внешнего кольца."
---elseif Locale == "zhCN" then
+--@localization(locale="ruRU", format="lua_additive_table", handle-unlocalized="ignore")@
+elseif Locale == "zhCN" then
+--@localization(locale="zhCN", format="lua_additive_table", handle-unlocalized="ignore")@
 elseif Locale == "zhTW" then
-	L["A circular skin with an outer ring as an accent."] = "一個圓形皮膚，外圈為特色所在。"
-	L["An alternate version of Cirque without an outer ring."] = "沒有外圈的Cirque的替代版本。"
+--@localization(locale="zhTW", format="lua_additive_table", handle-unlocalized="ignore")@
 end
