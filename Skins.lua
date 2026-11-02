@@ -26,7 +26,7 @@ local L = Core.Locale
 -- Locals
 ---
 
-local API_VERSION = 120000
+local API_VERSION = 120100
 
 -- Skin Info
 local Version = "@project-version@"
@@ -213,21 +213,17 @@ Masque:AddSkin("Cirque", {
 		Width = 38,
 		OffsetX = -2,
 	},
-	-- [ AutoCastShine (Classic) ]
-	AutoCastable = {
-		Texture = PATH_INDICATOR,
-		Color = {1, 1, 0, 1},
-		Width = 40,
-		Height = 40,
+	-- [ AutoCastOverlay ]
+	AutoCast_Frame = {
+		Width = 37,
+		Height = 37,
+		Classic = {
+			Width = 32,
+			Height = 32,
+			OffsetX = 1,
+			OffsetY = -1,
+		},
 	},
-	AutoCastShine = {
-		Width = 32,
-		Height = 32,
-		OffsetX = 1,
-		OffsetY = -1,
-	},
-	-- [ AutoCastOverlay (Retail) ]
-	-- AutoCast_Frame = Default.AutoCast_Frame,
 	-- AutoCast_Shine = Default.AutoCast_Shine,
 	AutoCast_Mask = {
 		Texture = [[Interface\AddOns\Masque\Textures\Circle\AutoCast-Mask]],
@@ -239,8 +235,16 @@ Masque:AddSkin("Cirque", {
 		Color = {1, 0.9, 0, 1},
 		Width = 40,
 		Height = 40,
+		Classic = {
+			Texture = PATH_INDICATOR,
+			Color = {1, 0.9, 0, 1},
+			Width = 40,
+			Height = 40,
+			OffsetX = -1,
+			OffsetY = 1,
+		},
 	},
-	-- [ Cooldowns ]
+	-- [ Cooldown ]
 	Cooldown = {
 		Texture = [[Interface\AddOns\Masque\Textures\Circle\Mask]],
 		EdgeTexture = [[Interface\AddOns\Masque\Textures\Square\Edge]],
@@ -254,7 +258,7 @@ Masque:AddSkin("Cirque", {
 		Width = 31,
 		Height = 31,
 	},
-	-- [ SpellAlerts ]
+	-- [ SpellAlert ]
 	SpellAlert = {
 		Height = 36,
 		Width = 36,
